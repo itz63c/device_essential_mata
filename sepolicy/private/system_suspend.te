@@ -1,2 +1,0 @@
-allow system_suspend dumpstate:fd use;
-allow system_suspend dumpstate:fifo_file write;
